@@ -14,7 +14,7 @@ These links always get the newest version. Older versions: [all releases](https:
 
 Kitted updates itself after that.
 
-More about Kitted, with screenshots: https://draftline-gules.vercel.app/kitted
+More about Kitted, with screenshots: https://draftlineapps.com/kitted
 
 ## How a new version goes out
 
